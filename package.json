@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "databaker": "^0.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "react-datepicker": "^2.10.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.0"
+  }
+}
